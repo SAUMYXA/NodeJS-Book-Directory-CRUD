@@ -8,7 +8,6 @@ Welcome to the Book Directory API! This API allows you to manage a collection of
 - [Routes](#routes)
 - [Error Handling](#error-handling)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 
 ## Getting Started
 
