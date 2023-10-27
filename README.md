@@ -53,7 +53,7 @@ The API provides the following routes for managing books:
 
 ## Error Handling
 
-The API includes error handling for various scenarios, such as validation errors and not found errors. The error messages and status codes are provided to help identify issues during API usage.
+The API includes error handling for various scenarios. The error messages and status codes are provided to help identify issues during API usage.
 
 ## Screenshots
 
