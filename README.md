@@ -58,7 +58,8 @@ The API includes error handling for various scenarios, such as validation errors
 ## Screenshots
 
 
-- [Screenshot 1: Create a New Book](https://web.whatsapp.com/bcd6cd49-7c0a-41fa-a8b8-84e592f2154d)
+- [Screenshot 1: Create a New Book]
+  (https://web.whatsapp.com/bcd6cd49-7c0a-41fa-a8b8-84e592f2154d)
 - [Screenshot 2: Retrieve All Books](#)
 - [Screenshot 3: Update a Book](#)
 - [Screenshot 4: Delete a Book](#)
