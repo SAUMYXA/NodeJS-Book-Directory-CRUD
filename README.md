@@ -61,15 +61,21 @@ The API includes error handling for various scenarios. The error messages and st
 - [Screenshot 1: Create a New Book](#)
   
 ![Screenshot (56)](https://github.com/SAUMYXA/NodeJS-Book-Directory-CRUD/assets/104627870/98b69247-d702-474b-9240-f72c132a89d4)
+
 - [Screenshot 2: Retrieve All Books](#)
+  
   ![Screenshot (57)](https://github.com/SAUMYXA/NodeJS-Book-Directory-CRUD/assets/104627870/c59634c2-bba7-4bdc-8530-07ad35d2b766)
 
-- [Screenshot 3: Update a Book](#)
+- [Screenshot 3: Delete a Book](#)
+
   ![Screenshot (58)](https://github.com/SAUMYXA/NodeJS-Book-Directory-CRUD/assets/104627870/86867d0d-18b0-4748-a7aa-7922aa058b50)
 
-- [Screenshot 4: Delete a Book](#)
+- [Screenshot 4: Update a Book ](#)
+
 ![Screenshot (59)](https://github.com/SAUMYXA/NodeJS-Book-Directory-CRUD/assets/104627870/47963158-0eca-43c0-bac3-35b927d853e0)
 
+- [Screenshot 5: Get a Book by its id ](#)
 
+  ![Screenshot (60)](https://github.com/SAUMYXA/NodeJS-Book-Directory-CRUD/assets/104627870/b406b0f0-b3fa-4974-b6e3-b329e2ae9c8c)
 
 Thank you for using the Book Directory API!
