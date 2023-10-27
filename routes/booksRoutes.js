@@ -7,19 +7,20 @@ const {
   updateBook,
   deleteBook,
 } = require('../controllers/booksController');
-// const { validateToken } = require('../middleware/validateTokenHandler');
 
-// router.use(validateToken);
+// Route to retrieve all books
+router.get('/getAllBooks', getBooks);
 
-router
-  .route('/')
-  .get(getBooks)
-  .post(createBook);
+// Route to retrieve a specific book by ID
+router.get('/getBook/:id', getBook);
 
-router
-  .route('/:id')
-  .get(getBook)
-  .put(updateBook)
-  .delete(deleteBook);
+// Route to create a new book
+router.post('/createBook', createBook);
+
+// Route to update a specific book by ID
+router.put('/updateBook/:id', updateBook);
+
+// Route to delete a specific book by ID
+router.delete('/deleteBook/:id', deleteBook);
 
 module.exports = router;
